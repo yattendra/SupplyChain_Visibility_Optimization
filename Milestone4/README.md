@@ -40,6 +40,4 @@ The Warehouse Efficiency Dashboard provides insights into warehouse performance 
 - DAX
 - Star Schema Data Model
 
-## Screenshot
 
-![Warehouse Efficiency](Warehouse%20Efficiency.png)
